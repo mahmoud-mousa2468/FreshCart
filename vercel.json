@@ -1,4 +1,6 @@
 {
+  "framework": "angular",
+  "outputDirectory": "dist/freshcart/browser",
   "rewrites": [
     {
       "source": "/(.*)",
@@ -6,4 +8,5 @@
     }
   ]
 }
+
 
